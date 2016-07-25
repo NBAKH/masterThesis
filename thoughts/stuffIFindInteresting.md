@@ -1,4 +1,4 @@
-#Stuff I find interesting
+Stuff I find interesting
 =====================
 I'm trying to make a list of topics, articles and topics in academia I find interesting enough to make it the subject for my master thesis. Initially I have decided to do this in english, but I haven't decided if I should write my thesis paper in danish as I'm far more articulate in my native tongue (surprise).
 
