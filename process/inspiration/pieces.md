@@ -1,7 +1,9 @@
 # Værksoversigt
 
 ## Natalie Jeremijenko
-Natalie Jeremijenko er kunstner, ingeniør og klimaaktivist hvis hovedbeskæftigelse er hvordan vi gendesigner menneskets forhold til økosystemer og endnu mere specifikt, hvordan vi integrerer naturen i vores byer sådan at vi ikke bare går i nul i forhold til CO2 udledning, men rent faktisk mindsker mængden af CO2 i atmosfæren. I en stor del af Natalie Jeremijenkos værker/projekter bliver der lagt vægt på
+Natalie Jeremijenko er kunstner, ingeniør og klimaaktivist hvis hovedbeskæftigelse er hvordan vi gendesigner menneskets forhold til økosystemer og endnu mere specifikt, hvordan vi integrerer naturen i vores byer sådan at vi ikke bare går i nul i forhold til CO2 udledning, men rent faktisk mindsker mængden af CO2 i atmosfæren. I en stor del af Natalie Jeremijenkos værker/projekter anvender hun bio-sensorer, altså hvor man enten tager planter eller dyr og ser hvordan de reagerer i et givent miljø. Et ekspempel er MUSSELxCHOIR, hvor man påmontere "hall effect sensors" på en større gruppe mnuslinger der så kan vise hvor meget hver enkelt musling er åben. En musling åbner og lukker sig afhængigt af vandkvaliteten af vandet de befinder sig i. Ved at behandle signalet fra muslingerne kan man få dem til at synge om hvor god vandkvaliteten er "real time".
+Alle hendes projekter er en kritik af den måde vi designer infrastruktur på og er i høj grad politiske og stiller sig i opposisation til den etableret måde tænke byer og natur på.
+Hun anvender et begreb hun kalder "The Crisis of Agency" som kan være vanskeligt at definere entydigt. Det kan stå for den lammelse de fleste mennesker oftest har når de tænker på de udfordringer klimaforandringerne bringer med sig og hvordan vi kan mindske CO2-udledningen i atmosfæren.
 
 ## The Yes Men
 
