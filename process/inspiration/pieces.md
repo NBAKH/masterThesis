@@ -3,10 +3,13 @@
 ## Natalie Jeremijenko
 Natalie Jeremijenko er kunstner, ingeniør og klimaaktivist hvis hovedbeskæftigelse er hvordan vi gendesigner menneskets forhold til økosystemer og endnu mere specifikt, hvordan vi integrerer naturen i vores byer sådan at vi ikke bare går i nul i forhold til CO2 udledning, men rent faktisk mindsker mængden af CO2 i atmosfæren. I en stor del af Natalie Jeremijenkos værker/projekter anvender hun bio-sensorer, altså hvor man enten tager planter eller dyr og ser hvordan de reagerer i et givent miljø. Et ekspempel er MUSSELxCHOIR, hvor man påmontere "hall effect sensors" på en større gruppe mnuslinger der så kan vise hvor meget hver enkelt musling er åben. En musling åbner og lukker sig afhængigt af vandkvaliteten af vandet de befinder sig i. Ved at behandle signalet fra muslingerne kan man få dem til at synge om hvor god vandkvaliteten er "real time".
 Alle hendes projekter er en kritik af den måde vi designer infrastruktur på og er i høj grad politiske og stiller sig i opposisation til den etableret måde tænke byer og natur på.
-Hun anvender et begreb hun kalder "The Crisis of Agency" som kan være vanskeligt at definere entydigt. Det kan stå for den lammelse de fleste mennesker oftest har når de tænker på de udfordringer klimaforandringerne bringer med sig og hvordan vi kan mindske CO2-udledningen i atmosfæren.
+Hun anvender et begreb hun kalder "The Crisis of Agency" som kan være vanskeligt at definere entydigt. Det kan stå for den lammelse de fleste mennesker oftest har når de tænker på de udfordringer klimaforandringerne bringer med sig og hvordan vi kan mindske CO2-udledningen i atmosfæren. Problemet defineret på en måde sådan at ingen mennekser har kompetencer nok til at kunne tackle opgaven på en meningsfuld måde. Der er ingen der er i stand til at løse en global krise egenhændigt, så derfor er det nødvendigt at omformulere opgaven sådan at den kan løses. Hvis man skal se på begrebet på et mere overordnet plan, så dækker det over hvordan folk er bange for at beskæftige sig med vanskelige og komplekse emner på en ambitiøs og meningsfuld måde. Hun argumenterer for at man altid skal sigte højt for at skabe gode resultater og det er derfor hendes projekter ikke skal være CO2-neutrale men rent faktisk sigter efter at være med til at fjerne CO2 og gøre det sundere at bo i byen uanset om du er menneske eller ej.
+
+### Et eller andet værk hun har lavet
 
 ## The Yes Men
 
+En ting der tiltaler mig meget ved The Yes Mens metode er hvordan at de bruger værktøjer fra selvsamme system som de prøver at brække fra hinanden. De ødelægger så at sige systemet indefra ved at give sig ud for at være nogen de ikke er og laver produkter der er en parodi, latterliggørelse og provokation på hvad "systemet" almindeligvis ville producere. 
 
 ## Weise 7
 
