@@ -34,7 +34,7 @@ The Yes Men vil også informere den almene befolkning men er langt mere fokusere
 
 Heather Dewey-Hagborg forsøger at belyse et "glemt" emne i overvågningsdebatten for at gøre borgere i samfundet bevidst om hvor meget information der ligger i hår man efterlader og dernest den manglende lovgivning i forhold til dataindsamling af funden DNA. Derudover ser jeg at hun henvender sig ligeså meget til staten som hun henvender sig til staten. Hvor Natalie mener at man ikke skal vente på at nye lovforslag går igennem med at ændre verden, så virker Heathers til at lægge op til en diskussion og forslag til lovgivningen.
 
-for at opsummerer så ser jeg tre forskellige måder hvorpå de kommunikerer og hvem de kommunikerer til. The Yes Men har en aggressiv tilgang og angriber store "onde" virksomheder. Natalie vil lave ændringer gennem en socialindsats der starter med at projekter informere befolkningen der dernæst griber til handling. Heather ønsker også at informere befolkningen, men det er det lovgivendesystem der skal reagere og lave ændringer. 
+for at opsummerer så ser jeg tre forskellige måder hvorpå de kommunikerer og hvem de kommunikerer til. The Yes Men har en aggressiv tilgang og angriber store "onde" virksomheder. Natalie vil lave ændringer gennem en socialindsats der starter med at projekter informere befolkningen der dernæst griber til handling. Heather ønsker også at informere befolkningen, men det er det lovgivende system der skal reagere og lave ændringer. 
 
 humor
 
