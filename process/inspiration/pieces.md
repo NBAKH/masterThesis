@@ -32,7 +32,9 @@ Mange af de de personer og grupper jeg skriver om og hvis projekter interesserer
 Alle de nævnte har i et eller andet omfang en politisk agenda hvor de prøver at tydeliggøre/afsløre "hegemony" og foreslå alternativer til den måde vi lever på. Der er dog på forskellige strategier i brug. Natalie Jeremijenko målretter sig meget mod befolkningen og prøver at etablere et fællesskab (structures of participation), hvor det er os allesammen der påtager os en del af ansvaret for så at gøre noget ved problemerne. deri ligger så også et behov for at informere om hvad problemerne er
 The Yes Men vil også informere den almene befolkning men er langt mere fokuseret på at gøre det ved at angribe større virksomheder. Når de tager til konferencer (specifikt for de virksomheder de ikke kan lide) eller når de deltager i interviews (forklædt som virksomheder som de ikke kan lide), så er det primære mål at provokere og latterliggøre selvsamme firmaer, for at afsløre korruption og hegemoni.
 
-Heather Dewey-Hagborg lovgivning
+Heather Dewey-Hagborg forsøger at belyse et "glemt" emne i overvågningsdebatten for at gøre borgere i samfundet bevidst om hvor meget information der ligger i hår man efterlader og dernest den manglende lovgivning i forhold til dataindsamling af funden DNA. Derudover ser jeg at hun henvender sig ligeså meget til staten som hun henvender sig til staten. Hvor Natalie mener at man ikke skal vente på at nye lovforslag går igennem med at ændre verden, så virker Heathers til at lægge op til en diskussion og forslag til lovgivningen.
+
+for at opsummerer så ser jeg tre forskellige måder hvorpå de kommunikerer og hvem de kommunikerer til. The Yes Men har en aggressiv tilgang og angriber store "onde" virksomheder. Natalie vil lave ændringer gennem en socialindsats der starter med at projekter informere befolkningen der dernæst griber til handling. Heather ønsker også at informere befolkningen, men det er det lovgivendesystem der skal reagere og lave ændringer. 
 
 humor
 
