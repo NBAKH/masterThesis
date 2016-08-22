@@ -5,17 +5,15 @@ Natalie Jeremijenko er kunstner, ingeniør og klimaaktivist hvis hovedbeskæftig
 Alle hendes projekter er en kritik af den måde vi designer infrastruktur på og er i høj grad politiske og stiller sig i opposition til den etableret måde tænke byer og natur på.
 Hun anvender et begreb hun kalder "The Crisis of Agency" som kan være vanskeligt at definere entydigt. Det kan stå for den lammelse de fleste mennesker oftest har når de tænker på de udfordringer klimaforandringerne bringer med sig og hvordan vi kan mindske CO2-udledningen i atmosfæren. Problemet defineret på en måde sådan at ingen mennesker har kompetencer nok til at kunne tackle opgaven på en meningsfuld måde. Der er ingen der er i stand til at løse en global krise egenhændigt, så derfor er det nødvendigt at omformulere opgaven sådan at den kan løses. Hvis man skal se på begrebet på et mere overordnet plan, så dækker det over hvordan folk er bange for at beskæftige sig med vanskelige og komplekse emner på en ambitiøs og meningsfuld måde. Hun argumenterer for at man altid skal sigte højt for at skabe gode resultater og det er derfor hendes projekter ikke skal være CO2-neutrale men rent faktisk sigter efter at være med til at fjerne CO2 og gøre det sundere at bo i byen uanset om du er menneske eller ej.
 
-### Et eller andet værk hun har lavet
 
 ## The Yes Men
 
 En ting der tiltaler mig meget ved The Yes Men's metode er hvordan at de bruger værktøjer fra selvsamme system som de prøver at brække fra hinanden. De ødelægger så at sige systemet indefra ved at give sig ud for at være nogen de ikke er og laver produkter der er en parodi, latterliggørelse og provokation på hvad "systemet" almindeligvis ville producere.
 
 ## Weise 7
+Weise 7 er en kunster- og ingeniørgruppe der beskæftiger sig med kunst og teknologi. De har sammen skrevet The Critical Engineering Manifesto, som jeg personligt synes er virkelig godt. Ved hjælp af 10 meget få punker beskriver de hvorfor det er vigtigt at være socialt ansvarlig og informere den generelle befolkning om hvad teknologi og vigtigst af alt, hvilket potentiale det har. Det er den teknik kyndiges pligt at afsløre alle de måder en given teknologi kan bruges og misbruges på. Mange af de punkter de har opstillet giver stor mening i forhold til hvad (det er mit personlige perspektiv) en digital designer skal kunne og have i baghovedet når vedkommende designer.
 
-
-## Aram Bartholl
-
+Weise 7 består af flere medlemmer der hver især laver deres egne projekter hvor en af dem er Julian Oliver. Han beskæftiger sig meget med at give form til digitale teknologier og han priotere det visuelle udtryk meget højt. Han har lavet projektet "transparency granade", som i sin rene udformning stiller sig kritisk/provokerende, hvor den funktionelle del ikke nødvendigvis er den bærende del af designet. 
 
 ## Heather Dewey-Hagborg
 Hun er en multidisciplinær kunstner og bio-hacker bosat i New York der beskæftiger sig med DNA-indsamling og lovgivning i forhold til hvad man må gøre med DNA. Det er en overset del af overvågningsdebatten, hvor hun belyser hvordan firmaer, regeringer og privatpersoner har adgang til viden om en selv som man ikke vidste var muligt.
@@ -34,12 +32,17 @@ The Yes Men vil også informere den almene befolkning men er langt mere fokusere
 
 Heather Dewey-Hagborg forsøger at belyse et "glemt" emne i overvågningsdebatten for at gøre borgere i samfundet bevidst om hvor meget information der ligger i hår man efterlader og dernest den manglende lovgivning i forhold til dataindsamling af funden DNA. Derudover ser jeg at hun henvender sig ligeså meget til staten som hun henvender sig til staten. Hvor Natalie mener at man ikke skal vente på at nye lovforslag går igennem med at ændre verden, så virker Heathers til at lægge op til en diskussion og forslag til lovgivningen.
 
-for at opsummerer så ser jeg tre forskellige måder hvorpå de kommunikerer og hvem de kommunikerer til. The Yes Men har en aggressiv tilgang og angriber store "onde" virksomheder. Natalie vil lave ændringer gennem en socialindsats der starter med at projekter informere befolkningen der dernæst griber til handling. Heather ønsker også at informere befolkningen, men det er det lovgivende system der skal reagere og lave ændringer. 
-
-humor
+for at opsummerer så ser jeg tre forskellige måder hvorpå de kommunikerer og hvem de kommunikerer til. The Yes Men har en aggressiv tilgang og angriber store "onde" virksomheder. Natalie vil lave ændringer gennem en socialindsats der starter med at projekter informere befolkningen der dernæst griber til handling. Heather ønsker også at informere befolkningen, men det er det lovgivende system der skal reagere og lave ændringer.
 
 Daniel Fallman har lavet et skema (trekant) om hvordan man kan placere sig i  interaktionsdesign med forskningsbaseret agenda hvor jeg igen kan placere alle de ovennævnte i samme hjørne af trekanten, som er i den der hedder "design exploration". Det er også i det hjørne jeg forventer mit speciale ender med at have sig hovedfokus.
 
+
+## Aram Bartholl
+har jeg valgt ikke at beskæftige mig med. uddyber senere (hvis nødvendigt)
+---
+dette herunder er hovedsageligt noter
+***
+humor ...
 
 ## Min interesse i robotter og Bots
 Min interesse i robotter ligger overhovedet ikke i teknologien, men i det spændfelt hvor mennesker og robotter mødes.
@@ -51,6 +54,7 @@ BIO
 
 ## Nick Bostrom
 
+# smart cities
 
 # Ligheder
 En kæmpe lighed mellem alt det nævnte er at de ovenstående opererer inden for et tværfagligt område
