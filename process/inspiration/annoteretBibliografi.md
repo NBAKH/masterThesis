@@ -8,4 +8,5 @@
   * Til at præcisere og rammesætte kritisk design og hvor Adversarial design/agonistisk design placerer sig i forhold til.
 3. Bardzell, Jeffrey; Bardzell, Shaowen; Stolterman, Erik - Reading critical designs
    * Jeg forestiller mig det bliver en anvendelig tekst til at kunne tale om mit emne og det design jeg kommer til at lave.
-4. Bardzell, Jeffrey; Bardzell, Shaowen; Koefoed, Lone - 
+4. Bardzell, Jeffrey; Bardzell, Shaowen; Koefoed, Lone - Immodest Proposals: Research Through Design and Knowledge
+ *
