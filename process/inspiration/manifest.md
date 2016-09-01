@@ -6,8 +6,12 @@ Hvad sker der når det kritiske ikke udelukkende er en del af processen for at s
 kan man gøre kritikken eksplicit, kan kritikken persiperes i det færdige artefakt.
 Kan man antage at brugeren er i stand til at forstå og reflektere? Jeg vil mene refleksion og kritisktænkning ikke skal reserveres til designeren, men skal indlejres i oplevelsen af artefaktet så den almene borger får mulighed for at danne egne og velinformerede holdninger.
 
-Hvad indeholder det kritiske objekt og hvordan kan man tolke på det??? find en præcis definition. den må allerede eksitere og hvis den eksiterer i en anden form så har jeg mulighed for at lave min egen? 
+Hvad indeholder det kritiske objekt og hvordan kan man tolke på det??? find en præcis definition. den må allerede eksitere og hvis den eksiterer i en anden form så har jeg mulighed for at lave min egen?
 
 jeg skal skrive 'the critical designer manifesto'??
 
 sagde hun noget om situationisterne ???
+
+Det kan også være jeg skulle lave et Natalie projekt??? pitche det til Aarhus 2017 ... jeg skal alligevel have snakket om roskilde festival.
+
+structures of participation in critical design ... slags workshop??
