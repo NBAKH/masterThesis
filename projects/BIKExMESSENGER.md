@@ -5,7 +5,7 @@ Jeg skriver et produktspeciale og har valgt at lave projektet [BIKExMESSENGER](h
 
 Nu bliver det lidt meta-teskt herfra....
 Jeg har forestillet mig at jeg vil lave BIKExMESSENGER i test udgave til mig selv. Derefter vil jeg forsøge at søge midler (Organicity er et bud) til en materialer så jeg kan afholde en stor workshop og en slags demostration eller intervention rundt om i Aarhus.
-En stor udfordring er at skabe indhold på skærmene og visualisere det sådan det er forståeligt for uindvigede, hvilket er essentielt for at arrangere workshoppen og cykelturen der kommer efterfølgende.
+En stor udfordring er at skabe indhold på skærmene og visualisere det sådan det er forståeligt for uindvigede, hvilket er essentielt for at arrangere workshoppen og cykelturen der kommer efterfølgende. (Det kommer nok til at betyde at jeg ikke når deadline d. 2 januar, hvis det skal gøres ordentlig, men det kan vi snakke om)
 
 Det ovenstående giver mig mulighed for at undersøge mange felter indenfor digital design og 'Adversarial Design'.
 Herunder har jeg skrevet et par potentielle undersøgelsesspørgsmål
