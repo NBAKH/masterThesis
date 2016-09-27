@@ -8,11 +8,14 @@ Jeg har forestillet mig at jeg vil lave BIKExMESSENGER i test udgave til mig sel
 En stor udfordring er at skabe indhold på skærmene og visualisere det sådan det er forståeligt for uindvigede, hvilket er essentielt for at arrangere workshoppen og cykelturen der kommer efterfølgende.
 
 Det ovenstående giver mig mulighed for at undersøge mange felter indenfor digital design og 'Adversarial Design'.
+Herunder har jeg skrevet et par potentielle undersøgelsesspørgsmål
 
 
-Mediets potentiale for at kommunikere agonistiske budskaber og
+* Mediets potentiale for at kommunikere agonistiske budskaber
+  + Hvor ligger det agonistiske i et design? Hvordan er mediet med til at forme/påvirke designets budskab? Kan et materiale/teknologi i sig selv være agonistisk?
 
-Agonisme og fællesskab. structures of participation... måske også demokratisering?
 
-Demokratisering af mediearkitektur gennem agonisme og strukturing af demostration/intervention/aktivisme.
-sætter man flere skærme op skaber man bare flere steder for pepsi.
+  * Demokratisering af mediearkitektur gennem agonisme og strukturing af demostration/intervention/aktivisme.
+    + sætter man flere skærme op skaber man bare flere steder for pepsi.
+
+* Agonisme og fællesskab. structures of participation... måske også demokratisering?
