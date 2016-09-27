@@ -18,4 +18,11 @@ Herunder har jeg skrevet et par potentielle undersøgelsesspørgsmål
   * Demokratisering af mediearkitektur gennem agonisme og strukturing af demostration/intervention/aktivisme.
     + sætter man flere skærme op skaber man bare flere steder for pepsi.
 
+
 * Agonisme og fællesskab. structures of participation... måske også demokratisering?
+
+
+* Den almindelige borgers evne til at afsløre og udfordre hegemoni.
+  + Hvordan kan teknologi være med til at 'empower'. Agonisme og aktivistiske redskaber.
+
+![Tavlenoter](/projects/notes0927.jpg)
