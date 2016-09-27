@@ -20,6 +20,7 @@ Herunder har jeg skrevet et par potentielle undersøgelsesspørgsmål
 
 
 * Agonisme og fællesskab. structures of participation... måske også demokratisering?
+  + Participatory Adversarial Design
 
 
 * Den almindelige borgers evne til at afsløre og udfordre hegemoni.
