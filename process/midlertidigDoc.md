@@ -4,4 +4,6 @@ Måske vil jeg lave min egen licens??? en licens hvor du ikke må bruge den til 
 Mit eksempel vil være bygget på open-source projekter og hjemme-hakket-hack.
 
 Er hjemme-hakket-hack et begreb jeg vil bruge???
-jeg løber tør for strøm, ses der 
+
+http://www.topp.se/post/making-ikeas-night-light-smart
+når virksomheder laver instruktioner
