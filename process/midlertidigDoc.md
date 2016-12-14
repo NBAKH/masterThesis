@@ -12,9 +12,15 @@ når virksomheder laver instruktioner
 jeg skal lave en instruktion. den instruktion skal appelere til at andre makere gerne vil lave den men også sådan at almindelige mennesker synes at det virker tilgængeligt. det at lave det skal være en læringsoplevelse når man den bygger den, både teknologisk og ideologisk. det skal bevidstgøres at det er en agonistisk handling.
 Teknologisk hverdags anarkisme
 Teknologisk populær anarkisme
-Teknologisk hverdags anarkisme
+Teknologisk hverdags aktivisme
 
 jeg skal omfavne og bruge den genre jeg er modstander af. det giver mig mulighed for at samligne mig og udfordre den måde man tænker teknologi.
 
 Lave en Buzzfeed artikel:
 Sådan protesterer du i det offentlige rum (og ser smart ud mens du gør det).
+
+Ifølge F.A.T LAB manualen er det vigtigt at man offentliggør sine projekter i deres helhed, hvilket også inkluderer processen og de materialer de består af, sådan at andre kan reproducerer dem. [bla bla skriv noget om deres mål ...]. F.A.T LAB har dog givet op og har nedlagt gruppen og stoppet for fremtidige aktiviteter. De har tabt til systemet. Derfor vil jeg ikke anvende mig af deres måde at lave manualer og instruktioner på, men stadig tage budskabet og formålet med. Så istedet for at bedrive kritisk, legende og agonistisk design og dele det på F.A.T LAB måden vil jeg kigge på alternative måder at formidle mit (design)projekt på. F.A.T LAB henvender sig og appelerer til ligesindede og folk med de samme kompetencer, hvilket gjorde dem del af en digital kunst/maker/ subkultur. Derfor vil jeg prøve at gøre brug af populære internetplatforme til beskrivelsen af mit agonistiske design. Dette kunne enten være BuzzFeed måden eller det kunne være Facebook instruktionsvideoer.
+
+Grunden til jeg IKKE vil på Instructables. Ved at ligge min beskrivelse op på Instructables indskriver jeg mig i makerkulturen og vil derfor ikke blive set af den almindelige befolkning. hele makerkulturen skal ikke skældes ud for at være dårlige til at være reflekterede eller ubetænksomme, men på Instructable er der (hegemoni) en overflod af seje projekter, der ikke bidrager til samfundet, men istedet fokuserer på hvordan teknologien isoleret set fungerer. Hvis mit projekt blev lagt på Instructables vil det tekniske blive forstået, men det indholdsmæssige vil nok gå tabt. Hvis man derimod smed indholdet ind på BuzzFeed, vil meningen så bevares og forstås? og vil det blive bygget på grund af budskabet istedet for teknologien (teknologi eller budskab som 1'er????) 
+
+"This man improved his local environment and looked cool while doing it. Find out how"
