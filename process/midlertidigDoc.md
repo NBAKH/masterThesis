@@ -2,8 +2,11 @@ Dette projekt kommer til at kritisk design, agonistisk design, critical making o
 
 Måske vil jeg lave min egen licens??? en licens hvor du ikke må bruge den til at reklamere eller sælge produktet. hvis du laver produktet til nogen så skal vedkommende der skal bruge det være fysisk tilstede. dette skal gøres for at skabe en bevidsthed hos brugerne om hvad er muligt, hvad er muligt og hvordan det er muligt. Det skal ikke handle om at være sej, men det skal i stedet handle om at handle. Produktionen for produktionen selv og/eller profit er OK men produktion for budskabet og frigørelsen af større økonomiske systemer er vigtig. Det er vigtigt at give folk en agenda gennem teknologi, det er vigtigt at en del af den agenda er at udfordre infrastruktur, måder vi bruger teknologi på og hvem der hersker over den teknologi vi bruger.
 Mit eksempel vil være bygget på open-source projekter og hjemme-hakket-hack.
-
+http://fffff.at/how-to-liscenes-your-artworkz/
 Er hjemme-hakket-hack et begreb jeg vil bruge???
 
 http://www.topp.se/post/making-ikeas-night-light-smart
 når virksomheder laver instruktioner
+
+
+til mit terrorplugin https://medium.com/uprooted/what-do-refugees-dream-of-the-things-all-of-us-want-8cec60692547#.ucf6jjeqm
