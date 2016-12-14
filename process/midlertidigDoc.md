@@ -7,3 +7,14 @@ Er hjemme-hakket-hack et begreb jeg vil bruge???
 
 http://www.topp.se/post/making-ikeas-night-light-smart
 når virksomheder laver instruktioner
+
+
+jeg skal lave en instruktion. den instruktion skal appelere til at andre makere gerne vil lave den men også sådan at almindelige mennesker synes at det virker tilgængeligt. det at lave det skal være en læringsoplevelse når man den bygger den, både teknologisk og ideologisk. det skal bevidstgøres at det er en agonistisk handling.
+Teknologisk hverdags anarkisme
+Teknologisk populær anarkisme
+Teknologisk hverdags anarkisme
+
+jeg skal omfavne og bruge den genre jeg er modstander af. det giver mig mulighed for at samligne mig og udfordre den måde man tænker teknologi.
+
+Lave en Buzzfeed artikel:
+Sådan protesterer du i det offentlige rum (og ser smart ud mens du gør det).
