@@ -4,3 +4,5 @@ The Critiacal Engineering Manifesto er en kort ti-punktsliste over
 
 
 Et overordnet tema i manifestet er at der hviler et ansvar hos dem der har viden og evner til forstå teknologi og modificere moderne teknologi. Det ansvar indebærer at man tydeligører og "udnytter" huller, fejl og teknologiske tendenser for at kommunikerer det videre til folk der ikke besidder de samme evner. En måde at opsumere med et til tider overbrugt citat; 'Where there is great power there is great responsibility'- Winston Churchill. Som kritisk ingeniør har man pligt til at udfordre den måde man bruger teknologi på og hvordan teknologi har indflydelse på vores liv på.  
+
+>"The Critical Engineer considers Engineering to be the most transformative language of our time, shaping the way we move, communicate and think. It is the work of the Critical Engineer to study and exploit this language, exposing its influence."
