@@ -10,3 +10,7 @@ Jeg overvejer om jeg skal indskrive 'Matters of Concern'(Latour) som et vigtigt 
 Jeg ved ikke om du måske skal inddrage instruktioner sammen med politiske designs/værker hvis det er dem du vil afdækker
 
 Men jeg tænker bare helt lavpraktisk at italesætte at du også vil analysere typer af instruktioner. For det tænker jeg du vil, hvis du vil afdække hvilke genrer af instruktioner der er dominerende.
+
+
+
+kritiske og politiske potentiale, måske er det en bedre formulering i mit tilfælle end crisis of agency??
