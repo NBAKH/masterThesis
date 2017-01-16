@@ -1,9 +1,6 @@
-Matters of concern handler om man selv skal lære noget og crisis of agency beskriver må Glen på lyst til at lave noget andre kan lære af...?
 
 
-Instruktioner til hvordan man laver
-
-observeret og analyseret 2(3) slags instruktioner typer. De tre typer har jeg kategoreret som:
+jeg har observeret og analyseret 2(3) slags instruktioner typer. De tre typer har jeg kategoreret som:
 * maker-instruktioner --> instructables
 * aktivisme instruktioner
 * (populær instruktioner)
@@ -17,11 +14,13 @@ Der findes dog instruktioner der formidler kritiske og/eller politiske (adversar
 De talte ikke til den gennemsnitlige borger eller maker, men til en lukket gruppe af akademikere og kunstnere. De har ikke formået at udnytte den stigende interesse for selv at arbejde med teknologi og introducere en kunstnerisk kant på folkeskolernes FAB LABs. FAT LAB navnet er en parodi til FAB LAB'et, som de fleste danske folkeskoler svæger til.  
 Derfor kan man konkluderer at hverken instruktables eller FAT LAB har været i stand til at skabe et miljø eller der har fordret at etablere sin egne kristiske praksis.
 
-Matt Ratto arbejder med begrebet Matters of Concern og to care for i Critical Making, hvor pointen er at arbejde med teknologi og etiske aspetker samt politiske tematiker, som teknologien bringer med sig og fokuserer meget på making.
+Matt Ratto arbejder med begrebet Matters of Concern og to care for i Critical Making, hvor pointen er at arbejde med teknologi og etiske aspetker samt politiske tematiker, som teknologien bringer med sig og fokuserer meget på making. Matters of Concern beskæftiger sig med hvordan det enkelte individ rigtig forstår et teknologisk felt ved at bruge teknologiske virkemidler (i hans workshop var det færdige Arduino pakker der blev pakket ind), men jeg mener der er behov for at tage fat i formidlingen på den platform makerne er på, for at kunne kommunikere at det er nødvendigt at integrere et refleksivt blik på digitale artefakter.
 
 
-kritiske og politiske potentiale, måske er det en bedre formulering i mit tilfælle end crisis of agency??
+#### Rant/ting jeg ikke har styr på:
+kritiske og politiske potentiale, måske er det en bedre formulering i mit tilfælle end crisis of agency?? måske skal jeg sige der er en crisis of agency og så derefter arbejde med at identificere et potentiale? måske er det nok kun at vise at der er en crisis of agency??? ...
 måske skulle instruktables have en helt ny skabelon? skal jeg lave en fake instructables side? konstructables, hvor der er forslag til hvordan teknologien kan bruges til andet end at blinke med?
 
+Matters of concern handler om man selv skal lære noget og crisis of agency beskriver må Glen på lyst til at lave noget andre kan lære af...?
 
-Nu er jeg igen i tvivl om hvad det er jeg vil???
+Nu er jeg igen i tvivl om hvad det er jeg vil??? Kunne man
