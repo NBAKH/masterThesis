@@ -1,5 +1,5 @@
-
-
+> "Ideals are not measured by weather they conform to reality; reality is judged by weather it lives up to ideals. Reaso's task is to deny that the claims of experience are final - and to push us to widen the horizon of our experience by providing ideas that experience ought to obey"
+-Susan Neiman
 
 
 
