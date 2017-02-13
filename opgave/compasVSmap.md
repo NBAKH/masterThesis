@@ -8,7 +8,11 @@ Et andet valg inden for den metafor der opstilles i Speculative Everything er de
 Men det er kun hvis vi antager at hele verden allerede er blevet optegnet. I dagens danmark år 2017 har vi lavet et komplet kort over vores verden der detaljeret viser hvad der er hvor. Vi har sågar mange forskellige verdenskort optegnet på forskellige måder for at afdække så meget geografisk sandhed som vi kan. I Den verden vil kompas og kort være perfekte sammen (åh nej gps'en....), men hvad nu hvis metaforen slet ikke giver mening i nutiden? I virkeligheden virker metaforen meget bedre før Columbus fandt Amerika, før vi fandt ud af jorden var rund. Hvis man kun bruger kompasset til at gå udenfor kortet så bliver metaforen mere meningsfuld. Man kan jo kun lave optegninger af den kendte verden. Den verden som er blevet afdækket. Derimod er kortet ubrugeligt når man når til kanten af det. Der kan man blive nødt til at finde kompasset frem for at udforske nye territorier samtidig med man har en forståelse for hvilken retning man tager. I hvilken retning tager jeg mit næste skridt og hvorfor gør jeg det?
 
 ift hvad jeg laver med instruktioner, så forstås kort og kompasset forskelligt. Er det en anskuelse af design eller er det måden man skal lære design?
-Designinstruktioner som kort og kompas forstås anerledes end det ovenstående, specielt når man kigger på konkrete designs. Bruger man et kompas eller kort til at finde på et design eller bruger man man metaforen som en opfordring og retning til andre? Kortet som instruktion er nok den almindelige instruktionsform. De findes i kogebøger, til at samle møbler og på instructables. Du 
+Designinstruktioner som kort og kompas forstås anerledes end det ovenstående, specielt når man kigger på konkrete designs. Bruger man et kompas eller kort til at finde på et design eller bruger man man metaforen som en opfordring og retning til andre? Kortet som instruktion er nok den almindelige instruktionsform. De findes i kogebøger, til at samle møbler og på instructables. Man kan se spekulativt design som en måde at lave kompas-instruktioner på. Der er ikke givet andet end en retning. Stien mellem nu og den ønskede fremtid er ikke defineret, så det er op til en selv at navigere dertil.
+
+Foragers
+
+Statistical Clock 
 
 
 
